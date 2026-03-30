@@ -1,0 +1,120 @@
+
+
+.heade{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: rgb(230, 199, 115);
+}
+
+
+
+.logo{
+    padding: 5px 10px;
+    border: 2px solid black;
+    font-size: 30px;
+}
+
+
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 15px;
+    
+}
+
+.opc{
+    border: 2px solid black;
+    padding: 5px 10px;
+}
+
+.sec1{
+    display: flex;
+    /*justify-content: space-around;*/
+    background-color: rgb(186, 147, 221);
+
+}
+
+.sec11{
+    border: 2px solid black;
+    width: 50%;
+    text-align: center;
+    padding: 20px;
+}
+
+.sec2{
+    text-align: center;
+    border: 2px solid black;
+    padding: 30px;
+    height: 200px;
+    background-color: rgb(241, 170, 145);
+}
+.sec2 button{
+    padding: 5px 10px;
+    
+}
+
+.sec3{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    border: 2px solid black;
+    padding: 20px;
+    background-color: rgb(132, 99, 184);
+}
+
+.card{
+    width: 20%;
+
+}
+.card button{
+    font-size: 15px;
+    padding: 5px 15px;
+    border-radius: 15px;
+}
+
+.sec3 img{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.card img{
+    height: 300px;
+    width: 100%;
+}
+
+.futer{
+    background-color: gray;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+.ftr1{
+    justify-items: center;
+    text-align: center;
+    
+}
+
+.ftr1 p{
+    width: 500px;
+    height: 20px;
+    border: 2px solid black;
+    
+}
+
+.ftr1 button{
+    font-size: 15px;
+    padding: 5px 15px;
+}
+.ftr1 h1{
+    border: 2px solid black;
+    padding: 5px 20px;
+}
+
+.contacto{
+    display: flex;
+    justify-content: space-around;
+    
+}
